@@ -1,10 +1,10 @@
 # BÀI LÀM – (ĐỀ LUYỆN TẬP SỐ 02)
 
 - **Mã đề:** 02
-- **Họ tên:** Đào Tuấn Đạt
+- **Họ tên:** Nguyễn Việt Dũng
 - **Lớp:** HNKS26CNTT3
-- **Link repository:** [GitHub](https://github.com/tuandatdzquatroihihi/HNKS26CNTT3_NhapMonCNTT_SS22_LT2)
-- **Hệ điều hành (Windows/macOS):**
+- **Link repository:** [https://github.com/nguyenvietdung122008-boop-DungVN/HNKS26CNTT3_NhapMonCNTT_SS22_LT2)
+- **Hệ điều hành (Windows/macOS):**window
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
